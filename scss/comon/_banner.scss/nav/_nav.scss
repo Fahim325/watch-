@@ -1,0 +1,30 @@
+#navebar{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background: transparent;
+   
+padding: 15px 0;
+}
+.main_manu {
+    margin-right: 107px;
+}
+.Shop_now {
+    padding: 14px 26px;
+    background: #fff;
+}
+
+.Shop_now a{
+
+    text-decoration: none;
+    color: orangered;
+    font-size: 14px;
+    
+    
+    
+}
+.Shop_now a:hover{
+    color: orangered;
+}
